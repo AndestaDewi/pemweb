@@ -42,7 +42,7 @@
             <tr>
                 <td rowspan="3">1</td>
                 <td rowspan="3">Apple</td>
-                <td rowspan="3"><img src="ip.jpeg" alt="Apple" width="100"></td>
+                <td rowspan="3"><img src="../assets/img/ip.jpeg" alt="Apple" width="100"></td>
                 <td>iPhone 16 pro max</td>
             </tr>
 
@@ -57,7 +57,7 @@
             <tr>
                 <td rowspan="3">2</td>
                 <td rowspan="3">Samsung</td>
-                <td rowspan="3"><img src="samsung.jpeg" alt="Samsung" width="100"></td>
+                <td rowspan="3"><img src="../assets/img/samsung.jpeg" alt="Samsung" width="100"></td>
                 <td>Samsung Galaxy S23 Ultra</td>
             </tr>
 
@@ -72,7 +72,7 @@
             <tr>
                 <td rowspan="3">3</td>
                 <td rowspan="3">Xiaomi</td>
-                <td rowspan="3"><img src="xiaomi.jpeg" alt="Xiaomi" width="100"></td>
+                <td rowspan="3"><img src="../assets/img/xiaomi.jpeg" alt="Xiaomi" width="100"></td>
                 <td colspan="5">Xiaomi 12 Pro 8/256</td>
             </tr>
 

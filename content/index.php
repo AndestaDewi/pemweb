@@ -41,7 +41,7 @@
         <div class="heading">
             <!-- Logo dan Judul -->
             <div class="logo">
-                <img src="Logounsiq.jpg" alt="logo unsiq" , width="100" , height="100">
+                <img src="../assets/img/Logounsiq.jpg" alt="logo unsiq" , width="100" , height="100">
             </div>
 
             <div class="judul">
