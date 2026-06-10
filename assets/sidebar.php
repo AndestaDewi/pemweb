@@ -89,6 +89,12 @@
                                 <p>Pertemuan 7</p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="../content/pertemuan9.php" class="nav-link">
+                                <i class="nav-icon bi bi-circle"></i>
+                                <p>Pertemuan 9</p>
+                            </a>
+                        </li>
                     </ul>
                 </li>
             </ul>
